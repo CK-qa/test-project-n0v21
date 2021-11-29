@@ -1,6 +1,5 @@
 public class AClass {
 
-    public void foobar() {
-
+    public void barfoo() {
     }
 }
